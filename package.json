@@ -1,0 +1,19 @@
+{
+  "name": "raj619portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Portfolio2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raj619Shubham/jaya678.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raj619Shubham/jaya678.github.io/issues"
+  },
+  "homepage": "https://github.com/Raj619Shubham/jaya678.github.io#readme"
+}
